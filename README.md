@@ -1,9 +1,10 @@
-💫 About Me:
-Hi, I’m Arjun ✨
-🚀 Founder of PathwayX
-🎓 B.E in Artificial Intelligence & Machine Learning
-💡 Completed an Internship at NIT
-🌟 Passionate about building innovative solutions and transforming ideas into reality
+# 💫 About Me <br>
+👋 Hi, I’m Arjun <br>
+🚀 Founder of PathwayX <br>
+🎓 B.E in Artificial Intelligence & Machine Learning <br>
+🏫 Internship experience at NIT <br>
+💡 Passionate about AI, innovation & building impactful solutions <br>
+
 
 
 ## 🌐 Socials:
