@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=220&section=header&text=Arjun%20🚀&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-<h1 align="center">Hi 👋, I'm Arjun</h1>
+<h1 align="center">Hi, I'm Arjun</h1>
 <h3 align="center">🚀 AI Developer | Startup Builder | Co-Founder @ Clardo</h3>
 
 <p align="center">
